@@ -1,6 +1,9 @@
 # tictactoe_game
 
-A new Flutter project.
+Kelompok 2:
+Moh Rival Dzulkhomzah 2006114
+Salman Adam Faris 2006112
+Reifalga Gais Pratama 2006055
 
 ## Getting Started
 
